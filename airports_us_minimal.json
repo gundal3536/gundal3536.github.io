@@ -1,0 +1,20 @@
+[
+  {
+    "icao": "KOWD",
+    "faaLid": "OWD",
+    "name": "Norwood Memorial",
+    "latitude": 42.1905,
+    "longitude": -71.1729,
+    "weatherService": "ATIS",
+    "runwayEnds": ["10", "17", "28", "35"]
+  },
+  {
+    "icao": "KBOS",
+    "faaLid": "BOS",
+    "name": "Boston Logan International",
+    "latitude": 42.3656,
+    "longitude": -71.0096,
+    "weatherService": "ATIS",
+    "runwayEnds": ["04L", "04R", "09", "14", "15L", "15R", "22L", "22R", "27", "32", "33L", "33R"]
+  }
+]
