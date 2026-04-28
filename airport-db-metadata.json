@@ -3,7 +3,11 @@
   "effectiveDate": "2026-04-16",
   "publishedDate": "2026-04-16",
   "downloadURL": "https://gundal3536.github.io/airports_us_minimal.json",
-  "sha256": "df5992f9aa908b5ebf134f8dbbd58700f48cc5e4d9e826b4c11f9874f20fba6a",
+  "sha256": "df5992f9aa90b5ebf134f8dbbd58700f48cc5e4d9e826b4c11f9874f20fba6a",
   "airportCount": 12667,
-  "minimumAppVersion": "1.0"
+  "minimumAppVersion": "1.0",
+  "datasetFormat": "legacy_minimal",
+  "datasetRichness": "minimal",
+  "source": "FAA derived dataset",
+  "notes": "Legacy minimal airport dataset used during expanded-schema transition."
 }
